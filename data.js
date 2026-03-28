@@ -51,7 +51,7 @@ var APP_DATA = {
     },
     {
       "id": "1-2-c-cha-gisu-d-tic-ci-cana",
-      "name": "2. Las bodas de Caná",
+      "name": "2. Las Bodas de Caná",
       "levels": [
         {
           "tileSize": 256,
@@ -99,14 +99,14 @@ var APP_DATA = {
         {
           "yaw": -0.24373764674771792,
           "pitch": -0.2789593316817669,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Las bodas de Caná</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">Las Bodas de Caná</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Tres días después se celebraron unas bodas en Caná de Galilea, y la madre de Jesús estaba allí. Jesús también fue invitado con sus discípulos. Y como faltaba vino, la madre de Jesús le dijo: «No tienen vino». Jesús le respondió: «Mujer, ¿qué tenemos que ver nosotros? Mi hora no ha llegado todavía». Pero su madre dijo a los sirvientes: «Hagan todo lo que él les diga».</div></span><o:p></o:p></p><p class=\"MsoNormal\"><br></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Había allí seis tinajas de piedra destinadas a los ritos de purificación de los judíos, que contenían unos cien litros cada una. Jesús dijo a los sirvientes: «Llenen de agua estas tinajas». Y las llenaron hasta el borde. «Saquen ahora, agregó Jesús, y lleven al encargado del banquete». Así lo hicieron. El encargado probó el agua cambiada en vino y como ignoraba su o rigen, aunque lo sabían los sirvientes que habían sacado el agua, llamó al esposo y les dijo: «Siempre se sirve primero el buen vino y cuando todos han bebido bien, se trae el de inferior calidad. Tú, en cambio, has guardado el buen vino hasta este momento». Este fue el primero de los signos de Jesús, y lo hizo en Caná de Galilea. Así manifestó su gloria, y sus discípulos creyeron en él.<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Juan 2:1–11)</div>"
         }
       ]
     },
     {
       "id": "2-3-c-cha-gisu-rao-ging-nc-tri-v-ku-gi-sm-hi",
-      "name": "3. El anuncio del Reino de Dios",
+      "name": "3. El Anuncio del Reino de Dios",
       "levels": [
         {
           "tileSize": 256,
@@ -154,7 +154,7 @@ var APP_DATA = {
         {
           "yaw": 0.004657148241202336,
           "pitch": -0.4721606572718109,
-          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">El anuncio del Reino de Dios</span><o:p></o:p></p>",
+          "title": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 115%;\">El Anuncio del Reino de Dios</span><o:p></o:p></p>",
           "text": "<p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">Después que Juan fue arrestado, Jesús se dirigió a Galilea. Allí proclamaba la Buena Noticia de Dios, diciendo: 15 «El tiempo se ha cumplido: el Reino de Dios está cerca. Conviértanse y crean en la Buena Noticia».<o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"font-size: 16pt; line-height: 150%;\">(Marcos 1:14–15)</div>"
         }
       ]
